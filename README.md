@@ -1,8 +1,35 @@
-Hey there !
-I’m a passionate Full-Stack Web Developer and AI student at ENSIA (Higher National School of Artificial Intelligence, Algeria).
+# Hi, I'm Chahinez Habouchi 
 
-I build modern, scalable, and interactive web applications using React, Next.js, and Tailwind CSS on the frontend, and Django for structured backend development, connecting systems seamlessly through well-designed APIs.
+### Full-Stack Web Developer & AI Student at ENSIA
 
-Beyond web development, I have a deep interest in Data Structures & Algorithms, consistently solving challenging problems to sharpen my analytical thinking and problem-solving skills.
+I build modern, scalable, and interactive web applications with a strong focus on clean architecture, performance, and user experience.
 
-My goal is to combine mathematics, artificial intelligence, and software engineering to create intuitive, intelligent, and impactful applications. I am driven by continuous learning and enjoy building projects that reflect both technical depth and creative thinking.
+## Tech Stack
+
+* **Frontend:** React, Next.js, Tailwind CSS
+* **Backend:** Django, Django REST Framework
+* **Languages:** JavaScript, TypeScript, Python
+* **Databases:** PostgreSQL, SQLite
+
+## Interests
+###  Artificial Intelligence
+
+Currently studying AI at ENSIA and exploring how intelligent systems combine mathematics, data, and software engineering to solve real-world problems.
+
+###  Full-Stack Development
+
+Passionate about both frontend and backend development, building complete web applications with modern technologies and scalable architectures.
+
+###  Problem Solving & DSA
+
+One of my favorite parts of computer science. I regularly solve LeetCode problems to improve my analytical thinking and algorithmic skills. Vist my account leetcode account here [https://leetcode.com/u/chahinez2006/]
+
+
+###  System Design
+
+Interested in scalable backend architecture, API design, and understanding how modern large-scale systems are built.
+
+
+## Currently Learning
+
+Advanced Backend Engineering • Scalable Systems • AI Integration
