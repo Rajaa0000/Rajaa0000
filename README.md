@@ -1,35 +1,176 @@
-# Hi, I'm Chahinez Habouchi 
+<!-- HEADER BANNER -->
+<div align="center">
 
-### Full-Stack Web Developer & AI Student at ENSIA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:7f5af0&height=220&section=header&text=Chahinez%20Habouchi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=17" width="100%" alt="banner"/>
 
-I build modern, scalable, and interactive web applications with a strong focus on clean architecture, performance, and user experience.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=3rd+Year+AI+Student+%40+ENSIA+%F0%9F%A7%A0;Training+models+with+PyTorch+%26+scikit-learn+%F0%9F%94%A5;200%2B+LeetCode+problems+solved+%E2%9A%A1;Building+full-stack+apps+with+React+%26+Django+%F0%9F%9A%80;Math+fan+%E2%88%AB+%E2%88%91+%CF%80+%E2%88%9E" alt="Typing SVG" />
+</a>
 
-## Tech Stack
+<br/>
 
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Django, Django REST Framework
-* **Languages:** JavaScript, TypeScript, Python
-* **Databases:** PostgreSQL, SQLite
+<a href="https://leetcode.com/u/chahinez2006/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/ENSIA-3rd%20Year%20AI-7F5AF0?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-ff4d6d?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=chahinez2006&label=Profile%20Views&color=7f5af0&style=for-the-badge" />
 
-## Interests
-###  Artificial Intelligence
+</div>
 
-Currently studying AI at ENSIA and exploring how intelligent systems combine mathematics, data, and software engineering to solve real-world problems.
+---
 
-###  Full-Stack Development
+## 👋 About Me
 
-Passionate about both frontend and backend development, building complete web applications with modern technologies and scalable architectures.
+I'm a **3rd-year Artificial Intelligence student at ENSIA** who loves turning **math into intelligent software**.
+My path started in a **mathematical high school** where I graduated with a **Baccalaureate in Mathematics**, and that foundation shapes the way I think about everything: models, algorithms, systems.
 
-###  Problem Solving & DSA
+Today I live at the intersection of three things:
 
-One of my favorite parts of computer science. I regularly solve LeetCode problems to improve my analytical thinking and algorithmic skills. Vist my account leetcode account here [https://leetcode.com/u/chahinez2006/]
+> 🧠 **AI & Machine Learning** (the core of what I do)
+> ⚡ **Competitive Programming & Algorithms**
+> 🌐 **Full-Stack Engineering** (so my AI ideas become real products)
 
+```python
+class Chahinez:
+    def __init__(self):
+        self.role      = "3rd-year AI Student @ ENSIA"
+        self.focus     = ["Machine Learning", "Deep Learning", "Data Science"]
+        self.languages = ["Python", "C++", "Dart", "JavaScript", "TypeScript"]
+        self.background = "Math high school, Bac in Mathematics"
+        self.leetcode  = "200+ problems solved"
+        self.mantra    = "Understand the math, then write the code."
 
-###  System Design
+    def currently(self):
+        return ["Advanced Backend Engineering", "Scalable Systems", "AI Integration"]
+```
 
-Interested in scalable backend architecture, API design, and understanding how modern large-scale systems are built.
+---
 
+## 🧠 Artificial Intelligence (My Main Focus)
 
-## Currently Learning
+AI is where I spend most of my time: understanding how **mathematics, data, and software engineering** combine to solve real-world problems.
 
-Advanced Backend Engineering • Scalable Systems • AI Integration
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,jupyter&perline=6" />
+
+</div>
+
+| Library | What I use it for |
+|---|---|
+| 🔢 **NumPy** | Vectorized math, linear algebra, building algorithms from scratch |
+| 🐼 **Pandas** | Data cleaning, exploration, feature engineering |
+| 📊 **Matplotlib** | Visualizing data, training curves, and results |
+| 🤖 **scikit-learn** | Classical ML: regression, classification, clustering, model evaluation |
+| 🔥 **PyTorch** | Neural networks, deep learning, training loops |
+
+**What I enjoy exploring**
+- 📈 Supervised and unsupervised learning
+- 🧩 Neural networks and deep learning fundamentals
+- 🧮 The math behind the models: linear algebra, probability, optimization
+- 🔌 AI integration: putting models behind real APIs and web apps
+
+---
+
+## ⚡ Competitive Programming & Problem Solving
+
+Solving problems is my favorite way to sharpen my mind. I've solved **200+ LeetCode problems**, mainly in **Python** and **C++**, covering arrays, strings, hash maps, two pointers, sliding window, recursion, binary search, trees, graphs, and dynamic programming.
+
+<div align="center">
+
+<a href="https://leetcode.com/u/chahinez2006/">
+  <img src="https://leetcard.jacoblin.cool/chahinez2006?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+🎯 *The goal: not just to get accepted, but to find the cleanest, most efficient solution.*
+
+👉 [**Visit my LeetCode profile**](https://leetcode.com/u/chahinez2006/)
+
+---
+
+## 🌐 Full-Stack Development
+
+I build complete web applications, from the database to the pixel, with a focus on **clean architecture, performance, and great UX**.
+
+- 🎨 **Frontend:** React, Next.js, Tailwind CSS
+- ⚙️ **Backend:** Django, Django REST Framework
+- 🗄️ **Databases:** PostgreSQL, SQLite
+- 📱 **Mobile:** Dart (Flutter-style apps)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,js,ts&perline=5" />
+
+**AI & Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,jupyter&perline=5" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=5" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=django,postgres,sqlite,git,github&perline=5" />
+
+</div>
+
+---
+
+## 🏗️ System Design
+
+I'm fascinated by how large-scale systems are built: **scalable backend architecture, API design, caching, and data flow**. I'm learning to think beyond "does it work?" toward "does it work for a million users?"
+
+---
+
+## 📚 Currently Learning
+
+| 🎯 Focus | 📖 Topic |
+|---|---|
+| 🔥 | Deep learning with PyTorch |
+| ⚙️ | Advanced backend engineering |
+| 🏗️ | Scalable systems & system design |
+| 🤝 | AI integration into real products |
+| ⚡ | Harder algorithms & DP on LeetCode |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=chahinez2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahinez2006&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahinez2006&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=chahinez2006&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://leetcode.com/u/chahinez2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/chahinez2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- Add your own links: -->
+<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+
+<br/><br/>
+
+*"Mathematics gives the foundation, code gives it life, AI gives it intelligence."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
