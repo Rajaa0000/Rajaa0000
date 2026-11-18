@@ -8,40 +8,21 @@
 </a>
 
 <br/>
-
-<a href="https://leetcode.com/u/chahinez2006/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/ENSIA-3rd%20Year%20AI-7F5AF0?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-ff4d6d?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=Rajaa0000&label=Profile%20Views&color=7f5af0&style=for-the-badge" />
-
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a **3rd-year Artificial Intelligence student at ENSIA** who loves turning **math into intelligent software**.
-My path started in a **mathematical high school** where I graduated with a **Baccalaureate in Mathematics**, and that foundation shapes the way I think about everything: models, algorithms, systems.
+I’m a 3rd-year Artificial Intelligence student at ENSIA who loves turning logic into intelligent software.
+
+My path started in a mathematical high school, where I graduated with a Baccalaureate in Mathematics. That foundation shapes the way I think about everything: models, algorithms, and systems. With the mathematical rigor it gave me, I entered ENSIA, the École Nationale Supérieure d’Intelligence Artificielle, where I began turning math and problem-solving into real tools.
 
 Today I live at the intersection of three things:
 
 > 🧠 **AI & Machine Learning** (the core of what I do)
 > ⚡ **Competitive Programming & Algorithms**
 > 🌐 **Full-Stack Engineering** (so my AI ideas become real products)
-
-```python
-class Chahinez:
-    def __init__(self):
-        self.role      = "3rd-year AI Student @ ENSIA"
-        self.focus     = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.languages = ["Python", "C++", "Dart", "JavaScript", "TypeScript"]
-        self.background = "Math high school, Bac in Mathematics"
-        self.leetcode  = "200+ problems solved"
-        self.mantra    = "Understand the math, then write the code."
-
-    def currently(self):
-        return ["Advanced Backend Engineering", "Scalable Systems", "AI Integration"]
-```
 
 ---
 
@@ -50,8 +31,6 @@ class Chahinez:
 AI is where I spend most of my time: understanding how **mathematics, data, and software engineering** combine to solve real-world problems.
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,jupyter&perline=6" />
 
 </div>
 
@@ -73,7 +52,9 @@ AI is where I spend most of my time: understanding how **mathematics, data, and 
 
 ## ⚡ Competitive Programming & Problem Solving
 
-Solving problems is my favorite way to sharpen my mind. I've solved **200+ LeetCode problems**, mainly in **Python** and **C++**, covering arrays, strings, hash maps, two pointers, sliding window, recursion, binary search, trees, graphs, and dynamic programming.
+Solving problems is my favorite way to sharpen my mind. I’ve solved 200+ LeetCode problems, mainly in Python and C++, covering arrays, strings, hash maps, two pointers, sliding window, recursion, binary search, trees, graphs, and dynamic programming.
+
+Problem solving and DSA are something I love talking about. It started as an obligation, a way to strengthen my profile. Over time it became something essential: it makes me feel like I’m truly using my brain. The dopamine after a long stretch of hard thinking, when the solution finally clicks, is powerful, and I can guarantee it’s one of the best feelings there is.
 
 <div align="center">
 
@@ -161,13 +142,17 @@ I'm fascinated by how large-scale systems are built: **scalable backend architec
 
 <div align="center">
 
-<a href="https://leetcode.com/u/chahinez2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://chahinez-habouchi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chahinez-habouchi-b715a0390"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:habouchichahinez9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Rajaa0000"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!-- Add your own links: -->
-<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-<!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+<a href="https://leetcode.com/u/chahinez2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
+
+🌐 [chahinez-habouchi.vercel.app](https://chahinez-habouchi.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/chahinez-habouchi-b715a0390) · 📧 habouchichahinez9@gmail.com
+
+<br/>
 
 *"Mathematics gives the foundation, code gives it life, AI gives it intelligence."* ✨
 
