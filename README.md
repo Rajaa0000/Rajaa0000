@@ -12,7 +12,7 @@
 <a href="https://leetcode.com/u/chahinez2006/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/ENSIA-3rd%20Year%20AI-7F5AF0?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-ff4d6d?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=chahinez2006&label=Profile%20Views&color=7f5af0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Rajaa0000&label=Profile%20Views&color=7f5af0&style=for-the-badge" />
 
 </div>
 
@@ -146,12 +146,12 @@ I'm fascinated by how large-scale systems are built: **scalable backend architec
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=chahinez2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahinez2006&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rajaa0000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaa0000&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahinez2006&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaa0000&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=chahinez2006&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rajaa0000&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
@@ -162,7 +162,7 @@ I'm fascinated by how large-scale systems are built: **scalable backend architec
 <div align="center">
 
 <a href="https://leetcode.com/u/chahinez2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://github.com/chahinez2006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Rajaa0000"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <!-- Add your own links: -->
 <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
