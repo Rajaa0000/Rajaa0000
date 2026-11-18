@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:7f5af0&height=220&section=header&text=Chahinez%20Habouchi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=17" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=3rd+Year+AI+Student+%40+ENSIA+%F0%9F%A7%A0;Training+models+with+PyTorch+%26+scikit-learn+%F0%9F%94%A5;200%2B+LeetCode+problems+solved+%E2%9A%A1;Building+full-stack+apps+with+React+%26+Django+%F0%9F%9A%80;Math+fan+%E2%88%AB+%E2%88%91+%CF%80+%E2%88%9E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Developing+web+apps+%F0%9F%9A%80;Training+models+%F0%9F%94%A5;Competitive+programming+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -121,20 +121,6 @@ I'm fascinated by how large-scale systems are built: **scalable backend architec
 | 🤝 | AI integration into real products |
 | ⚡ | Harder algorithms & DP on LeetCode |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rajaa0000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaa0000&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajaa0000&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajaa0000&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
 
 ---
 
@@ -152,9 +138,7 @@ I'm fascinated by how large-scale systems are built: **scalable backend architec
 
 🌐 [chahinez-habouchi.vercel.app](https://chahinez-habouchi.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/chahinez-habouchi-b715a0390) · 📧 habouchichahinez9@gmail.com
 
-<br/>
 
-*"Mathematics gives the foundation, code gives it life, AI gives it intelligence."* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
