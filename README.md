@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I’m a 3rd-year Artificial Intelligence student at ENSIA who loves turning logic into intelligent software.
 
@@ -26,7 +26,7 @@ Today I live at the intersection of three things:
 
 ---
 
-## 🧠 Artificial Intelligence (My Main Focus)
+##  Artificial Intelligence (My Main Focus)
 
 AI is where I spend most of my time: understanding how **mathematics, data, and software engineering** combine to solve real-world problems.
 
@@ -50,7 +50,7 @@ AI is where I spend most of my time: understanding how **mathematics, data, and 
 
 ---
 
-## ⚡ Competitive Programming & Problem Solving
+##  Competitive Programming & Problem Solving
 
 Solving problems is my favorite way to sharpen my mind. I’ve solved 200+ LeetCode problems, mainly in Python and C++, covering arrays, strings, hash maps, two pointers, sliding window, recursion, binary search, trees, graphs, and dynamic programming.
 
@@ -64,13 +64,13 @@ Problem solving and DSA are something I love talking about. It started as an obl
 
 </div>
 
-🎯 *The goal: not just to get accepted, but to find the cleanest, most efficient solution.*
+ *The goal: not just to get accepted, but to find the cleanest, most efficient solution.*
 
 👉 [**Visit my LeetCode profile**](https://leetcode.com/u/chahinez2006/)
 
 ---
 
-## 🌐 Full-Stack Development
+##  Full-Stack Development
 
 I build complete web applications, from the database to the pixel, with a focus on **clean architecture, performance, and great UX**.
 
@@ -81,7 +81,7 @@ I build complete web applications, from the database to the pixel, with a focus 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -105,13 +105,13 @@ I build complete web applications, from the database to the pixel, with a focus 
 
 ---
 
-## 🏗️ System Design
+##  System Design
 
 I'm fascinated by how large-scale systems are built: **scalable backend architecture, API design, caching, and data flow**. I'm learning to think beyond "does it work?" toward "does it work for a million users?"
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 | 🎯 Focus | 📖 Topic |
 |---|---|
