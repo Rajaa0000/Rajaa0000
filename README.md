@@ -14,9 +14,9 @@ My path started in a mathematical high school, where I graduated with a Baccalau
 
 Today I live at the intersection of three things:
 
-> 🧠 **AI & Machine Learning** (the core of what I do)
-> ⚡ **Competitive Programming & Algorithms**
-> 🌐 **Full-Stack Engineering** (so my AI ideas become real products)
+>  **AI & Machine Learning** (the core of what I do)
+>  **Competitive Programming & Algorithms**
+>  **Full-Stack Engineering** (so my AI ideas become real products)
 
 ---
 
@@ -30,17 +30,17 @@ AI is where I spend most of my time: understanding how **mathematics, data, and 
 
 | Library | What I use it for |
 |---|---|
-| 🔢 **NumPy** | Vectorized math, linear algebra, building algorithms from scratch |
-| 🐼 **Pandas** | Data cleaning, exploration, feature engineering |
-| 📊 **Matplotlib** | Visualizing data, training curves, and results |
-| 🤖 **scikit-learn** | Classical ML: regression, classification, clustering, model evaluation |
-| 🔥 **PyTorch** | Neural networks, deep learning, training loops |
+|  **NumPy** | Vectorized math, linear algebra, building algorithms from scratch |
+|  **Pandas** | Data cleaning, exploration, feature engineering |
+|  **Matplotlib** | Visualizing data, training curves, and results |
+|  **scikit-learn** | Classical ML: regression, classification, clustering, model evaluation |
+|  **PyTorch** | Neural networks, deep learning, training loops |
 
 **What I enjoy exploring**
-- 📈 Supervised and unsupervised learning
-- 🧩 Neural networks and deep learning fundamentals
-- 🧮 The math behind the models: linear algebra, probability, optimization
-- 🔌 AI integration: putting models behind real APIs and web apps
+-  Supervised and unsupervised learning
+-  Neural networks and deep learning fundamentals
+-  The math behind the models: linear algebra, probability, optimization
+-  AI integration: putting models behind real APIs and web apps
 
 ---
 
@@ -68,10 +68,10 @@ Problem solving and DSA are something I love talking about. It started as an obl
 
 I build complete web applications, from the database to the pixel, with a focus on **clean architecture, performance, and great UX**.
 
-- 🎨 **Frontend:** React, Next.js, Tailwind CSS
-- ⚙️ **Backend:** Django, Django REST Framework
-- 🗄️ **Databases:** PostgreSQL, SQLite
-- 📱 **Mobile:** Dart (Flutter-style apps)
+-  **Frontend:** React, Next.js, Tailwind CSS
+-  **Backend:** Django, Django REST Framework
+-  **Databases:** PostgreSQL, SQLite
+-  **Mobile:** Dart (Flutter-style apps)
 
 ---
 
@@ -107,13 +107,13 @@ I'm fascinated by how large-scale systems are built: **scalable backend architec
 
 ##  Currently Learning
 
-| 🎯 Focus | 📖 Topic |
-|---|---|
-| 🔥 | Deep learning with PyTorch |
-| ⚙️ | Advanced backend engineering |
-| 🏗️ | Scalable systems & system design |
-| 🤝 | AI integration into real products |
-| ⚡ | Harder algorithms & DP on LeetCode |
+|  📖 Topic |
+|---|
+|  Deep learning with PyTorch |
+|  Advanced backend engineering |
+|  Scalable systems & system design |
+|  AI integration into real products |
+|  Harder algorithms & DP on LeetCode |
 
 
 ---
