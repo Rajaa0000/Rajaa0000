@@ -1,7 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:7f5af0&height=220&section=header&text=Chahinez%20Habouchi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=17" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Developing+web+apps+%F0%9F%9A%80;Training+models+%F0%9F%94%A5;Competitive+programming+%E2%9A%A1" alt="Typing SVG" />
