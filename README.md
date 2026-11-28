@@ -1,10 +1,8 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <h1>Chahinez Habouchi </h1>
-
+  <h1 >Chahinez Habouchi </h1>
 </div>
 
----
 
 ##  About Me
 
