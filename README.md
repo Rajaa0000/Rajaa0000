@@ -1,7 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:4a4a4a&height=220&section=header&text=Chahinez%20Habouchi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20the%20making%20%7C%20Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=17" width="100%" alt="banner"/><br/>
 </div>
 
 ---
