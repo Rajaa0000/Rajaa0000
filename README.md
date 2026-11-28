@@ -1,6 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
-Chahinez Habouchi 
+  <h1>Chahinez Habouchi </h1>
+
 </div>
 
 ---
